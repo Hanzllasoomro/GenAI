@@ -2,6 +2,12 @@
 
 This folder contains a small, end-to-end ANN workflow used in the GenAI course to teach tabular preprocessing, model training, experiment tracking, and inference. The materials are written for students who are learning how to translate raw data into a working neural-network pipeline.
 
+## Reach and impact
+
+This project is a hands-on learning resource for students, connecting model-building concepts to a runnable workflow. The ANN materials cover tabular preprocessing, training and tuning, experiment tracking, and inference, including how to reuse saved model and preprocessing artifacts.
+
+As of November 27, 2026, the repository has 27 commits since December 2025, with its latest commit on November 16, 2026. It has 0 stars, forks, and watchers, and no published releases, issues, or pull requests. These are repository-wide GitHub activity signals, not a measure of actual learners or usage. No release-download or downstream-dependent counts are available to report.
+
 Special acknowledgement: Krish Niak is the supervisor of the overall project and learning flow.
 
 ## What each file does (tutor-style walkthrough)
